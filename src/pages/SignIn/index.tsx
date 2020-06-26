@@ -19,7 +19,7 @@ const SignIn: React.FC = () => {
 
       <Button
         onPress={() => {
-          console.log('CLicou');
+          console.log('Botão de Login');
         }}
       >
         Entrar
